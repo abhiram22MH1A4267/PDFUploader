@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "utopian-spring-445913-u0",
+  "private_key_id": "8b38d6940d583a54ff4bc1be891b2005aa1b1c29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJvWSxSk2jOONO\nNaIuAI6TuXCiU3qdKX3bhvUy1fn/ogwbKsen+UAhaLNB7S9gLobwbeCDhI8D/HIU\n4cj8EZ1kw/9DBddteCpF6ZDeTExsKKrFVQ3OKxx5vqdn+sU7+FEiAxFyfDi17ABC\nC78x1u/DJTRe4D8RSx88hd5y1KdL/dlycZ/8bdFUOsSkxpWjFjVve95Ny2lZG72i\ngJJQ+aaLUQQcgFwz3x0fEsA9SsJ9OkCB7iQmPIFt5q17qv+k2D9hqwkI8rYpl17Z\nARkRB42tcEYAUp6/3QkRBBOgwmojASJjR43IEtHyNc7pgQ2vfsZ3XnQDCCON+kVg\n7IaSysztAgMBAAECggEAGZ+YnnwViFm9ZT2ir70aXuD60WNQ+409kxh9JEvRSQrI\nBttUKJ2b66Jkwkbh8ZF3SipqjcnUcGksBEL5SCrkltveHCEtz5WnqOGVqOZ//mzb\n49x9uGX5Y+03Thmn24oao/tHyAbHHTQwhDMBwc7O/TZIhJRu7j9gZEuMiYFBDoGh\nyxDRY3nEOY7gNid6HaB7U0lh9anbHYKnkQzRJU6sx+K01osHpkM/qQ723ZFGE1of\nF0VE1a7zjDDwK5QHFAok8LwWO+oP2H7i04/fSmL0zcS1NMoGUsRRkt2gkppEBGGW\nS91ZVBtutooPFxZHh4eufa1oaSdzHS6R3JyqmjEUcQKBgQDsLwZSxZCWkfoJW4H4\niCirVdm20BV+JB4xr6ERJ+IwXIKbcybyastYmROMcTuY4LGY3tt84m0Mlio4TK2/\nVTBgaCxxN0QKzAYj1tl3jP7if6m3Qmi0uUar+8Zf2ruUzCKchMry7tXZsD1ZiIBX\n1LcQFWP+g9vv1rviAXzCRP8KQwKBgQDaqoz+mM/z69xLbm3Q/BfziJLcmkGknUFL\n3ZRF7HMLsZcHUOdO7YY88slyJpiVmhFAoNj0beOX7d1K2XxesclNO6V/laP5ZzOi\ng5wKgOOqS59YsOXCRELS9YbqQ2rjpqiPDP+VBZ/KEL1cIAHcLjXfzETSDOS4brwE\nzBtHG15RDwKBgHpJ2t9Olg+wI6NmswQJE+2qtOB4GzjF4LBfPGlSmkXqEGIGnHrW\nGtWT5NBJ7M66QJpjgYfHASmMMu4Vnby8kiDIr4IrWFqyytcRrmW9JlgGO8y8YNR6\nPgJciZkl+wwPKjiadS6VxTpCi3FpQPK5G9QDD1Q/18f2Ci/6DyvTZ65bAoGAUNBp\njYqyiGaqIyKr6WnR/EqEZI2KJymLQVuh+fm6Rx8aPzTyV+RHEW11b/+9ssSfDbCk\nnimizLq3Z3tbkK/KQwYBU1bdpEY0+iID4InkGkMaoC+4qoSJ4eemNhw2e+5TK5NV\nPiE2/foT0eFubo6RkKWw5aSoP1WFnYxFpJED2ZcCgYAcGzk+WCG8RS+FKk6WKuHH\nJ9tqluEuHMC1PsdVjCCskV1ETtWpRAJeO2BCnA8bUrRCfMynfjrFxw4a+mvSQ9bR\n8YY31fWbcWHlbyOUgcgfaSuT8a0GFEeIafyPYK2+F/4dxIM5gaE/Dzacep0XqcOq\nXDzke7fO91BSG+H8rYh3Tw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveserviceaaccounttest@utopian-spring-445913-u0.iam.gserviceaccount.com",
+  "client_id": "109762273762896159020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveserviceaaccounttest%40utopian-spring-445913-u0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
